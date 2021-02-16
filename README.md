@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tiago Dantas</h1>
 <h3 align="center">Studying Information Systems graduation</h3>
 
-- 🌱 I’m currently learning **JS,CSS,React and NodeJS**
+- 🌱 I’m currently learning **JS,CSS,React and NodeJS.**
+
+- 📫 How to reach me **tiagodantas42@gmail.com**
 
 - ⚡ Fun fact **I love playing games**
 
@@ -9,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tiago-dantas-b62a04188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiago-dantas-b62a04188" height="30" width="40" /></a>
 <a href="https://fb.com/tiagox42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tiagox42" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczyhiwa60egpylrpp43_scw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uczyhiwa60egpylrpp43_scw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uczyhiwa60egpylrpp43_scw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uczyhiwa60egpylrpp43_scw" height="30" width="40" /></a>
 <a href="https://discord.gg/Doritoz#2416" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Doritoz#2416" height="30" width="40" /></a>
 </p>
 
