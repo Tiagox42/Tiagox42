@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate **on projects where I can learn and develop my skills.**
 
-- 📫 How to reach me **tiagodantas42@gmail.com**
+- 📫 How to reach me **tiagodantas42@gmail.com or WhatsApp: +55 (31)99904-4242**
 
 - ⚡ Fun fact **I love playing games**
 
