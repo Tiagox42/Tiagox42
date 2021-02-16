@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **JS,CSS,React and NodeJS.**
 
+- 👯 I’m looking to collaborate **on projects where I can learn and develop my skills.**
+
 - 📫 How to reach me **tiagodantas42@gmail.com**
 
 - ⚡ Fun fact **I love playing games**
