@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagox42&show_icons=true&locale=en&layout=compact" alt="tiagox42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagox42&show_icons=true&locale=en" alt="tiagox42" /></p>
-<div/>
+</div>
