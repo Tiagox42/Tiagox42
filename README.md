@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **I love playing games**
 
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiago-dantas-b62a04188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiago-dantas-b62a04188" height="30" width="40" /></a>
@@ -23,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagox42&show_icons=true&locale=en&layout=compact" alt="tiagox42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagox42&show_icons=true&locale=en" alt="tiagox42" /></p>
+<div/>
