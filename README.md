@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/rH0jFMF5z3AAAAAM/kirito-sao.gif"/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/tiago-dantas-b62a04188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiago-dantas-b62a04188" height="30" width="40" /></a>
 <a href="https://discord.gg/Doritoz#2416" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Doritoz#2416" height="30" width="40" /></a>
 </p>
