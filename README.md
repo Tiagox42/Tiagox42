@@ -1,7 +1,5 @@
 <h3 align="center">Information Systems Student</h3>
 
-<img style="margin: 20px;" align="left" src="https://c.tenor.com/rH0jFMF5z3AAAAAM/kirito-sao.gif">
-
 <h3 style="font-size: 17px; margin-top: 35px;" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiago-dantas-b62a04188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiago-dantas-b62a04188" height="30" width="40" /></a>
