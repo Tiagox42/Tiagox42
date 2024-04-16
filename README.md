@@ -1,4 +1,4 @@
-Atualmente Analista de Suporte Pleno ||| em Microsoft Dynamics 365;<br>Estudando para ser dev fullstack;<br>
+Full Stack Developer in Educational CRM. Working on solutions to attract students from basic education institutions.<br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/doritoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-dantas-b62a04188) 
 
